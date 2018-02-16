@@ -9,6 +9,7 @@
   Нумерованный:
 1) 1 строчка
 2) 2 строчка
-  ![alt-текст](http://simplemarriage.net/wp-content/uploads/2013/10/HELP.jpg "Помогите, нужно вставить изображение")
-  [ссылка](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0 "Мое состояние")
+  ![alt-текст](http://simplemarriage.net/wp-content/uploads/2013/10/HELP.jpg "Помогите, нужно вставить изображение")  
+  
+  [Состояние за час до дедлайна](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0 "Мое состояние")
   >Цитата о ~~Нужности~~ учебы.
