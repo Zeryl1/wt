@@ -1,0 +1,25 @@
+.sort-table {
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+th.sort-cell {
+  background: darkblue;
+}
+
+td.sort-cell {
+  background: darkgray;
+}
+
+.sort-cell {
+  color: white;
+  border: 1px solid black;
+  height: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+input[type="button"] {
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
